@@ -1,0 +1,30 @@
+body {
+    background-image: url("./imagehtml/1637781677_5-gamerwall-pro-p-oboi-kiberpank-minimalizm-oboi-na-rabochii-6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+h1 {
+    text-align: center;
+    vertical-align: top;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+p1 {
+    text-align: center;
+    vertical-align: top;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+p1{
+    color: #d6a9bf;
+}
+p{
+    color: #d6a9bf;
+}
+h1 {
+    color: #d6a9bf;
+}
